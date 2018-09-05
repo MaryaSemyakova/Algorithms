@@ -1,6 +1,0 @@
-D:\work\Algorithms\Algorithms\ElementaryAlgorithms\obj\Debug\ElementaryAlgorithms.csprojAssemblyReference.cache
-D:\work\Algorithms\Algorithms\ElementaryAlgorithms\obj\Debug\ElementaryAlgorithms.csproj.CoreCompileInputs.cache
-D:\work\Algorithms\Algorithms\ElementaryAlgorithms\bin\Debug\ElementaryAlgorithms.dll
-D:\work\Algorithms\Algorithms\ElementaryAlgorithms\bin\Debug\ElementaryAlgorithms.pdb
-D:\work\Algorithms\Algorithms\ElementaryAlgorithms\obj\Debug\ElementaryAlgorithms.dll
-D:\work\Algorithms\Algorithms\ElementaryAlgorithms\obj\Debug\ElementaryAlgorithms.pdb
